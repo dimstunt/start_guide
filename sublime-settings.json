@@ -1,8 +1,13 @@
 {
-	"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).sublime-color-scheme",
+	"theme": "Adaptive.sublime-theme",
+	"color_scheme": "Packages/Theme - One Dark/One Dark.tmTheme",
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
 	],
-	"theme": "Adaptive.sublime-theme"
+	"ensure_newline_at_eof_on_save": true,
+	"save_on_focus_lost": true,
+	"trim_trailing_white_space_on_save": "all",
+	"translate_tabs_to_spaces": false,
+	"font_size": 15,
 }
